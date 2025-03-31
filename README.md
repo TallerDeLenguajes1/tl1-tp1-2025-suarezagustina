@@ -11,3 +11,24 @@ _Es una herramienta esencial en cualquier repositorio, ya que ayuda a mantener u
 ## ¿Cuándo se debe hacer?
 
 _El archivo .gitignore debe configurarse antes de realizar el primer commit, para evitar que archivos innecesarios o sensibles se agreguen al repositorio._
+
+## ¿Cómo configuraría el archivo .gitignore?
+
+_Para configurarlo, simplemente se crea un archivo llamado .gitignore en la raíz del proyecto y se agrega las reglas según lo que se desea ignorar._
+
+Ejemplo básico para un proyecto en C:
+```
+# Archivos de compilación
+*.o
+*.out
+*.exe
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+```
