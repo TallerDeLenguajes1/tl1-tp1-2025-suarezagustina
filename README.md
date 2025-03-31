@@ -48,3 +48,8 @@ git status
 git commit -m "Agregando ignorado.txt a .gitignore"
 git push origin main
 ```
+
+## 3g) 👩‍💻
+
+_Se debe a que **ambos apartados** (2 y 3) muestran la **direccion de memoria de la variable A**. En cambio, en el punto **4** esta mostrando la **direccion de memoria de la variable puntero**, se muestra donde esta almacenado este puntero, que es diferente a donde esta la variable A._ ⚙️ 
+
