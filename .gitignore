@@ -1,6 +1,6 @@
-# No hay archivos innecesarios por ahora, para cumplir con la consigna:
+# Archivos innecesarios:
 tp12025.pdf
-
+*.exe
 #Ej para ignorar C:
 ### C ###
 # Prerequisites
