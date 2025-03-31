@@ -1,7 +1,7 @@
 # Archivos innecesarios:
 tp12025.pdf
 *.exe
-.vscode
+.vscode/
 #Ej para ignorar C:
 ### C ###
 # Prerequisites
